@@ -1,0 +1,284 @@
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\MILS.exe.config
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\MILS.exe
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\MILS.pdb
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Data.v21.2.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Data.v21.2.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Properties.Resources.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.csproj.GenerateResource.cache
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.csproj.CoreCompileInputs.cache
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.csproj.CopyComplete
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.exe
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.pdb
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Area.Area.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.MainForm.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Document.Document.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Batch.Batch.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Location.Location.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Receiving.ReceiveDetailData.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Item.AddItem.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Item.Items.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.csprojAssemblyReference.cache
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingMain.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.UOM.UOM.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.UOM.AddUOM.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Item.AddItemDetails.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingRegister.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingRegisterDetails.resources
+E:\IVAN FILES\25.) GitHub\2.) NEW MILS BY IVAN\MILS\obj\Debug\MILS.Modules.Login.Login.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\MILS.exe.config
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\MILS.exe
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\MILS.pdb
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Data.v21.2.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Utils.v21.2.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Data.v21.2.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Utils.v21.2.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.csprojAssemblyReference.cache
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Area.Area.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Batch.Batch.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Document.Document.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Item.AddItem.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Item.Items.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Location.Location.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Login.Login.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.MainForm.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Receiving.ReceiveDetailData.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingMain.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingRegisterDetails.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingRegister.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.UOM.AddUOM.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.UOM.UOM.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Properties.Resources.resources
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.csproj.GenerateResource.cache
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.csproj.CoreCompileInputs.cache
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.csproj.CopyComplete
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.exe
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.pdb
+C:\Users\HSDPI-SYSTEM-DEV\Documents\GitHub\MILS_V5\MILS\obj\Debug\MILS.Modules.Item.UomGroup.resources
+E:\MILS_V5\MILS\bin\Debug\MILS.exe.config
+E:\MILS_V5\MILS\bin\Debug\MILS.exe
+E:\MILS_V5\MILS\bin\Debug\MILS.pdb
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Data.v21.2.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Data.v21.2.xml
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\MILS_V5\MILS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\MILS_V5\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\MILS_V5\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\MILS_V5\MILS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\MILS_V5\MILS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\MILS_V5\MILS\obj\Debug\MILS.csprojAssemblyReference.cache
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Area.Area.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Batch.Batch.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Document.Document.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Item.AddItem.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Item.UomGroup.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Item.Items.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Location.Location.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Login.Login.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.MainForm.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Receiving.ReceiveDetailData.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingMain.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingRegisterDetails.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingRegister.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.UOM.AddUOM.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Modules.UOM.UOM.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.Properties.Resources.resources
+E:\MILS_V5\MILS\obj\Debug\MILS.csproj.GenerateResource.cache
+E:\MILS_V5\MILS\obj\Debug\MILS.csproj.CoreCompileInputs.cache
+E:\MILS_V5\MILS\obj\Debug\MILS.csproj.CopyComplete
+E:\MILS_V5\MILS\obj\Debug\MILS.exe
+E:\MILS_V5\MILS\obj\Debug\MILS.pdb
+E:\2.) NEW MILS\MILS\bin\Debug\MILS.exe.config
+E:\2.) NEW MILS\MILS\bin\Debug\MILS.exe
+E:\2.) NEW MILS\MILS\bin\Debug\MILS.pdb
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Data.v21.2.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Utils.v21.2.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.XtraBars.v21.2.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.dll
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Data.Desktop.v21.2.xml
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Data.v21.2.xml
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Utils.v21.2.xml
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.XtraBars.v21.2.xml
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.XtraEditors.v21.2.xml
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Printing.v21.2.Core.xml
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Sparkline.v21.2.Core.xml
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Pdf.v21.2.Core.xml
+E:\2.) NEW MILS\MILS\bin\Debug\DevExpress.Pdf.v21.2.Drawing.xml
+E:\2.) NEW MILS\MILS\bin\Debug\de\DevExpress.Data.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\es\DevExpress.Data.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ja\DevExpress.Data.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ru\DevExpress.Data.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\de\DevExpress.Utils.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\es\DevExpress.Utils.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ja\DevExpress.Utils.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ru\DevExpress.Utils.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\de\DevExpress.XtraBars.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\es\DevExpress.XtraBars.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ja\DevExpress.XtraBars.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ru\DevExpress.XtraBars.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\de\DevExpress.XtraEditors.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\es\DevExpress.XtraEditors.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ja\DevExpress.XtraEditors.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ru\DevExpress.XtraEditors.v21.2.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\de\DevExpress.Printing.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\es\DevExpress.Printing.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ja\DevExpress.Printing.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ru\DevExpress.Printing.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\de\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\es\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ja\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ru\DevExpress.Sparkline.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\de\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\es\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ja\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\bin\Debug\ru\DevExpress.Pdf.v21.2.Core.resources.dll
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.csprojAssemblyReference.cache
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Area.Area.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Batch.Batch.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Document.Document.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Item.AddItem.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Item.UomGroup.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Item.Items.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Location.Location.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Login.Login.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.MainForm.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Receiving.ReceiveDetailData.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingMain.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingRegisterDetails.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.Receiving.ReceivingRegister.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.UOM.AddUOM.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Modules.UOM.UOM.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.Properties.Resources.resources
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.csproj.GenerateResource.cache
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.csproj.CoreCompileInputs.cache
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.csproj.CopyComplete
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.exe
+E:\2.) NEW MILS\MILS\obj\Debug\MILS.pdb

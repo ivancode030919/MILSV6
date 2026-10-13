@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{25C8AA0C-2BCB-4DEF-94E4-FD5B54E9347B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>MILS</RootNamespace>
+    <AssemblyName>MILS</AssemblyName>
+    <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.Desktop.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v21.2, Version=21.2.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class\AreaClass.cs" />
+    <Compile Include="Class\BatchClass.cs" />
+    <Compile Include="Class\DocumentClass.cs" />
+    <Compile Include="Class\ItemClass.cs" />
+    <Compile Include="Class\LocationClass.cs" />
+    <Compile Include="Class\LoginClass.cs" />
+    <Compile Include="Class\ReceivingClass.cs" />
+    <Compile Include="Class\UOMClass.cs" />
+    <Compile Include="Class\UoMGroupClass.cs" />
+    <Compile Include="Connections\DataClasses1.cs">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Connections\DataClasses1.designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </Compile>
+    <Compile Include="Connections\LCon.cs" />
+    <Compile Include="Modules\Area\Area.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Area\Area.Designer.cs">
+      <DependentUpon>Area.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Batch\Batch.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Batch\Batch.Designer.cs">
+      <DependentUpon>Batch.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Document\Document.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Document\Document.Designer.cs">
+      <DependentUpon>Document.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Item\AddItem.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Item\AddItem.Designer.cs">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Item\UomGroup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Item\UomGroup.Designer.cs">
+      <DependentUpon>UomGroup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Item\Items.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Item\Items.Designer.cs">
+      <DependentUpon>Items.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Location\Location.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Location\Location.Designer.cs">
+      <DependentUpon>Location.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Login\Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Login\Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Receiving\ReceiveDetailData.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Receiving\ReceiveDetailData.Designer.cs">
+      <DependentUpon>ReceiveDetailData.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Receiving\ReceivingMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Receiving\ReceivingMain.Designer.cs">
+      <DependentUpon>ReceivingMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Receiving\ReceivingRegisterDetails..cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Receiving\ReceivingRegisterDetails..Designer.cs">
+      <DependentUpon>ReceivingRegisterDetails..cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\Receiving\ReceivingRegister.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\Receiving\ReceivingRegister.Designer.cs">
+      <DependentUpon>ReceivingRegister.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UOM\AddUOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\UOM\AddUOM.Designer.cs">
+      <DependentUpon>AddUOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modules\UOM\UOM.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Modules\UOM\UOM.Designer.cs">
+      <DependentUpon>UOM.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Modules\Area\Area.resx">
+      <DependentUpon>Area.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Batch\Batch.resx">
+      <DependentUpon>Batch.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Document\Document.resx">
+      <DependentUpon>Document.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Item\AddItem.resx">
+      <DependentUpon>AddItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Item\UomGroup.resx">
+      <DependentUpon>UomGroup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Item\Items.resx">
+      <DependentUpon>Items.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Location\Location.resx">
+      <DependentUpon>Location.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Login\Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Receiving\ReceiveDetailData.resx">
+      <DependentUpon>ReceiveDetailData.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Receiving\ReceivingMain.resx">
+      <DependentUpon>ReceivingMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Receiving\ReceivingRegisterDetails..resx">
+      <DependentUpon>ReceivingRegisterDetails..cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\Receiving\ReceivingRegister.resx">
+      <DependentUpon>ReceivingRegister.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UOM\AddUOM.resx">
+      <DependentUpon>AddUOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Modules\UOM\UOM.resx">
+      <DependentUpon>UOM.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Connections\DataClasses1.dbml">
+      <Generator>MSLinqToSQLGenerator</Generator>
+      <LastGenOutput>DataClasses1.designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Connections\DataClasses1.dbml.layout">
+      <DependentUpon>DataClasses1.dbml</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{3259AA49-8AA1-44D3-9025-A0B520596A8C}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Modules\Reason\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
